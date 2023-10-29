@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonLipu
+- 👋 Hi, I’m @LeonLipu (Brahmananda Kar)
 - 👀 I’m interested in coding and math
 - 🌱 I’m currently learning Deep Learning and tensorflow 
 - 💞️ I’m looking to collaborate on intresting project
